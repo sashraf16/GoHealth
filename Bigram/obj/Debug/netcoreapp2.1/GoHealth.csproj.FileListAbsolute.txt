@@ -1,0 +1,14 @@
+C:\Gitall\Coding Assessments\GoHealth\Bigram\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Gitall\Coding Assessments\GoHealth\Bigram\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Gitall\Coding Assessments\GoHealth\Bigram\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Gitall\Coding Assessments\GoHealth\Bigram\bin\Debug\netcoreapp2.1\GoHealth.deps.json
+C:\Gitall\Coding Assessments\GoHealth\Bigram\bin\Debug\netcoreapp2.1\GoHealth.runtimeconfig.json
+C:\Gitall\Coding Assessments\GoHealth\Bigram\bin\Debug\netcoreapp2.1\GoHealth.runtimeconfig.dev.json
+C:\Gitall\Coding Assessments\GoHealth\Bigram\bin\Debug\netcoreapp2.1\GoHealth.dll
+C:\Gitall\Coding Assessments\GoHealth\Bigram\bin\Debug\netcoreapp2.1\GoHealth.pdb
+C:\Gitall\Coding Assessments\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.csprojAssemblyReference.cache
+C:\Gitall\Coding Assessments\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.csproj.CoreCompileInputs.cache
+C:\Gitall\Coding Assessments\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.AssemblyInfoInputs.cache
+C:\Gitall\Coding Assessments\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.AssemblyInfo.cs
+C:\Gitall\Coding Assessments\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.dll
+C:\Gitall\Coding Assessments\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.pdb
