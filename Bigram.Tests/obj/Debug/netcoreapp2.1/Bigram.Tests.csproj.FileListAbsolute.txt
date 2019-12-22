@@ -13,3 +13,18 @@ C:\Gitall\Coding Assessments\GoHealth\Bigram.Tests\obj\Debug\netcoreapp2.1\Bigra
 C:\Gitall\Coding Assessments\GoHealth\Bigram.Tests\obj\Debug\netcoreapp2.1\Bigram.Tests.AssemblyInfo.cs
 C:\Gitall\Coding Assessments\GoHealth\Bigram.Tests\obj\Debug\netcoreapp2.1\Bigram.Tests.dll
 C:\Gitall\Coding Assessments\GoHealth\Bigram.Tests\obj\Debug\netcoreapp2.1\Bigram.Tests.pdb
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\bin\Debug\netcoreapp2.1\Bigram.Tests.deps.json
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\bin\Debug\netcoreapp2.1\Bigram.Tests.runtimeconfig.json
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\bin\Debug\netcoreapp2.1\Bigram.Tests.runtimeconfig.dev.json
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\bin\Debug\netcoreapp2.1\Bigram.Tests.dll
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\bin\Debug\netcoreapp2.1\Bigram.Tests.pdb
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\obj\Debug\netcoreapp2.1\Bigram.Tests.csprojAssemblyReference.cache
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\obj\Debug\netcoreapp2.1\Bigram.Tests.csproj.CoreCompileInputs.cache
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\obj\Debug\netcoreapp2.1\Bigram.Tests.AssemblyInfoInputs.cache
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\obj\Debug\netcoreapp2.1\Bigram.Tests.AssemblyInfo.cs
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\obj\Debug\netcoreapp2.1\Bigram.Tests.dll
+d:\Coding Challenges\Go Health\GoHealth\Bigram.Tests\obj\Debug\netcoreapp2.1\Bigram.Tests.pdb

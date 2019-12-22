@@ -6,19 +6,8 @@ using System.Text;
 namespace GoHealth {
     class Program {
         static void Main (string[] args) {
-            System.Console.WriteLine ("hello");
-            string input = File.ReadAllText (@"../Input.txt");
-
-            StringBuilder sb = new StringBuilder ();
-
-            foreach (char c in input) {
-                if ((c >= '0' && c <= '9') || (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z') || c == ' ') {
-                    sb.Append (c);
-                }
-            }
-
-            input = sb.ToString ();
-
+            string file = @"../Input.txt";
+            string input = ClearString(file);
             string[] splitted = input.Split (null);
 
             Dictionary<string, int> results = new Dictionary<string, int> ();
@@ -37,6 +26,20 @@ namespace GoHealth {
             foreach (KeyValuePair<string, int> kvp in results) {
                 Console.WriteLine ("Key = {0}, Value = {1}", kvp.Key, kvp.Value);
             }
+
+        }
+        static string ClearString (string file) {
+            string input = File.ReadAllText (file);
+
+            StringBuilder sb = new StringBuilder ();
+
+            foreach (char c in input) {
+                if ((c >= '0' && c <= '9') || (c >= 'A' && c <= 'Z') || (c >= 'a' && c <= 'z') || c == ' ') {
+                    sb.Append (c);
+                }
+            }
+
+            return sb.ToString ();
         }
     }
 }

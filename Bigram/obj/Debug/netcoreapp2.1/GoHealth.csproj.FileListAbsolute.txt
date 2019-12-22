@@ -12,3 +12,17 @@ C:\Gitall\Coding Assessments\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.As
 C:\Gitall\Coding Assessments\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.AssemblyInfo.cs
 C:\Gitall\Coding Assessments\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.dll
 C:\Gitall\Coding Assessments\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.pdb
+D:\Coding Challenges\Go Health\GoHealth\Bigram\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Coding Challenges\Go Health\GoHealth\Bigram\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Coding Challenges\Go Health\GoHealth\Bigram\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Coding Challenges\Go Health\GoHealth\Bigram\bin\Debug\netcoreapp2.1\GoHealth.deps.json
+D:\Coding Challenges\Go Health\GoHealth\Bigram\bin\Debug\netcoreapp2.1\GoHealth.runtimeconfig.json
+D:\Coding Challenges\Go Health\GoHealth\Bigram\bin\Debug\netcoreapp2.1\GoHealth.runtimeconfig.dev.json
+D:\Coding Challenges\Go Health\GoHealth\Bigram\bin\Debug\netcoreapp2.1\GoHealth.dll
+D:\Coding Challenges\Go Health\GoHealth\Bigram\bin\Debug\netcoreapp2.1\GoHealth.pdb
+D:\Coding Challenges\Go Health\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.csprojAssemblyReference.cache
+D:\Coding Challenges\Go Health\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.csproj.CoreCompileInputs.cache
+D:\Coding Challenges\Go Health\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.AssemblyInfoInputs.cache
+D:\Coding Challenges\Go Health\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.AssemblyInfo.cs
+D:\Coding Challenges\Go Health\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.dll
+D:\Coding Challenges\Go Health\GoHealth\Bigram\obj\Debug\netcoreapp2.1\GoHealth.pdb
